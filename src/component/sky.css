@@ -1,0 +1,19 @@
+.Sky{
+    width:100%;
+    height:85%;
+    background-color: powderblue;
+    text-align: center;
+
+}
+
+.ready{
+    margin : 0;
+    font-size : 5em;
+    font-weight : bold;
+}
+.game-info {
+    margin : 0;
+    text-align: right;
+    font-size : 2em;
+    font-weight : bold;
+}

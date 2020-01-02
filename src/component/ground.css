@@ -1,0 +1,10 @@
+.Ground {
+    width:100%;
+    height:15%;
+    text-align: center;
+    background-color: burlywood;
+}
+.Ground:before{
+    content: ""; display: inline-block;
+    width: 1px; height: 100%; vertical-align: middle;
+}
