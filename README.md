@@ -6,12 +6,14 @@ bootstrap, react와 redux를 이용하여 구현한 타자 연습을 위한 산성비 게임
 
 
 
-### 구조
+### 실행하기
 
 ```
-+ 시작 페이지
- + 게임 진행하는 페이지
- + 기록 페이지
+ 1. Clone or download 하기
+ 2. console를 통해 해당 폴더로 이동
+ 3. npm install 실행
+ 4. npm start
+ 5. 웹 브라우저에 http://localhost:5000 실행
 ```
 
 ### 특징
